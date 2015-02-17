@@ -2,9 +2,7 @@
 
 A BAC calculator for the geeks.
 
-Installation
-========================
-## Installation
+# Installation
 The following recommended installation requires [npm](https://npmjs.org/). If you are unfamiliar with npm, see the [npm docs](https://npmjs.org/doc/). Npm comes installed with Node.js since node version 0.8.x therefore you likely already have it.
 
 Clone this repository:
@@ -20,6 +18,14 @@ npm install
 ```
 
 ## Usage
+
+Make sure you're in the right directory
+
+```bash
+cd BetterBAC
+```
+
+Then run:
 
 ```bash
 npm start
