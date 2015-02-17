@@ -1,0 +1,20 @@
+{
+  "name": "BetterBAC",
+  "version": "0.0.1",
+  "description": "A web app to determine your blood alcohol content.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkingsman/BetterBAC.git"
+  },
+  "keywords": [
+    "alcohol",
+    "bac"
+  ],
+  "author": "Jack Kingsman <jack.kingsman@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "compression": "~1.2.2",
+    "express": "~4.11.2"
+  }
+}
